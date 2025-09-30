@@ -13,7 +13,9 @@
 <h2>Статистика</h2>
 <!--стата тут-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dissolvinggroin)](https://git.io/streak-stats) <!-- --> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dissolvinggroin)](https://github.com/dissolvinggroin/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dissolvinggroin)](https://git.io/streak-stats) 
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dissolvinggroin)](https://github.com/dissolvinggroin/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissolvinggroin&layout=compact)](https://github.com/dissolvinggroin/github-readme-stats) -->
 
